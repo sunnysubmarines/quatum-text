@@ -1,0 +1,40 @@
+Document #0:
+topic2 topic3 topic4 topic5 topic6 topic7 topic8 topic9 topic1 topic0 
+Document #1:
+topic1 topic0 topic2 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #2:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #3:
+topic2 topic1 topic0 topic4 topic5 topic6 topic7 topic8 topic9 topic3 
+Document #4:
+topic2 topic1 topic0 topic5 topic6 topic7 topic8 topic9 topic3 topic4 
+Document #5:
+topic2 topic1 topic0 topic6 topic7 topic8 topic9 topic3 topic4 topic5 
+Document #6:
+topic2 topic1 topic0 topic7 topic8 topic9 topic3 topic4 topic5 topic6 
+Document #7:
+topic2 topic1 topic0 topic8 topic9 topic3 topic4 topic5 topic6 topic7 
+Document #8:
+topic2 topic1 topic0 topic9 topic3 topic4 topic5 topic6 topic7 topic8 
+Document #9:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #10:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #11:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #12:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #13:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #14:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #15:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #16:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #17:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #18:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
+Document #19:
+topic2 topic1 topic0 topic3 topic4 topic5 topic6 topic7 topic8 topic9 
